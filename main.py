@@ -10,7 +10,7 @@ import concurrent.futures
 
 # ================= ⚡ SETTINGS =================
 TOKEN = '8677737410:AAHiOAMo_JNS579A1uOsMFWYziecVSKkPnk'
-WEBHOOK_URL = 'https://telegram-bot-3-mo35.onrender.com' 
+WEBHOOK_URL = 'https://telegram-bot-4-sj6o.onrender.com' 
 
 bot = telebot.TeleBot(TOKEN, parse_mode='HTML', threaded=False)
 
